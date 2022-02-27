@@ -59,7 +59,13 @@ Call to action! It's time. Sign up for one of our product by clicking on the but
 </body>
 <footer>
      Thanks for visiting us <span id ="today-date"></span>
-    <script src="index.js"></script>
+    <script src="index.js">
+        // Get a hold of the element with Id today-date
+
+const dateElement =document.getElementById("today-date");
+// Set the function (Inner HTML) to be a string representation of today's date
+dateElement.innerHTML = new Date( );
+    </script>
     Copyright @ Uceeyjudy 2022
 </footer>
 </html>
