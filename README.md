@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uceeyjudy
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning front end web development on freecodecamp
-- 💞️ I’m looking to collaborate on front and back end web development
+- 👀 I’m interested in Cloud DevOps Engineering 
+- 🌱 I’m currently learning Cloud DevOps Engineering in Udacity
+- 💞️ I’m looking to collaborate on Cloud DevOps Engineering 
 - 📫 You can reach me likedIn and twitter.
 - https://uceeyjudy.github.io/Uceeyjudy/
 
