@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uceeyjudy
 - 👀 I’m interested in Cloud DevOps Engineering 
-- 🌱 I’m currently learning Cloud DevOps Engineering in Udacity
+- 🌱 I’m currently learning and developing myself
 - 💞️ I’m looking to collaborate on Cloud DevOps Engineering 
 - 📫 You can reach me likedIn and twitter.
 - https://uceeyjudy.github.io/Uceeyjudy/
