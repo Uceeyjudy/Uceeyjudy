@@ -10,14 +10,14 @@ body{
     text-align: center;
 }
 main {
-    background-color: aquamarine;
+    background-color: var(main-blue);
 }
 footer {
     font-weight: 300;
     display: flex;
     justify-content: space-evenly;
     padding: 2rem;
-    background: var(--main-gray);
+    background: var(--main-white);
     border-top: 4px solid var(--main-red);
     background-color: azure;
   }
