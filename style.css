@@ -1,23 +1,19 @@
-/* Custom properties/variables  */
-:root {
-    --main-white: #f0f0f0;
-    --main-red: #FF69B4;
-    --main-blue: #00FFFF;
-    --main-gray: #303841;
-  }
-  
+nav{
+    background-color: aqua;
+}
 body{
     text-align: center;
+    background-color:  #00FFFF;
 }
 main {
-    background-color: var(main-blue);
+    background-color: whitesmoke;
+    padding: 2rem;
 }
 footer {
     font-weight: 300;
     display: flex;
     justify-content: space-evenly;
     padding: 2rem;
-    background: var(--main-white);
-    border-top: 4px solid var(--main-red);
+    border-top: 2px solid #FF69B4;;
     background-color: azure;
   }
