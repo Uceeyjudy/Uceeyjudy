@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uceeyjudy
-- 👀 I’m interested in Product Management and Cloud DevOps Engineering 
+- 👀 I’m interested in Frontend Developement and Cloud DevOps Engineering 
 - 🌱 I’m currently learning and developing myself
-- 💞️ I’m looking to collaborate on Product and Software Engineering 
+- 💞️ I’m looking to collaborate on Software Engineering 
 - 📫 You can reach me likedIn and twitter.
 - https://uceeyjudy.github.io/Uceeyjudy/
 
