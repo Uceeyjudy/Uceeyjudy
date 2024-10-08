@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uceeyjudy
-- 👀 I’m interested in Product Management and everything that comes with it including but not limited to Programming, UX Design and Data Analysis.
+- 👀 I’m  a support specialist interested in Community Management, Saas, Product Management and  Cloud DevOps.
 - 🌱 I learn and develop myself every single day.
-- 💞️ I’m looking to collaborate on Product Management projects.
+- 💞️ I’m looking to collaborate on Community Management as well as open source projects.
 - 📫 You can reach me likedIn and twitter.
 - https://uceeyjudy.github.io/Uceeyjudy/
 
