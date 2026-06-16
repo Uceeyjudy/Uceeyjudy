@@ -5,32 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=shinybrightstar&label=Profile%20views&color=0e75b6&style=flat" alt="shinybrightstar" />
 </p>
 
-<!--
-This is a 
-multi-line comment
-<h3 align="center"> Python • SQL </h3>
+
+<h3 align="center"> Excel • PowerBI • SQL • Python </h3>
 <p align="center">
-I've decided to take some time and upskill myself in Data Engineering. With a background in tech community management, project management, and analytical problem-solving, I'm currently building end-to-end data pipelines and strengthening my engineering fundamentals with a focused learning plan.
+I'm a developer community manager, building data analytics and engineering skills
 </p>
 
----
-
-### 🔭 What I'm Building Toward
-
-- **Data Engineering**: designing and building reliable, scalable data pipelines and infrastructure
-- Developing hands-on expertise in Python, SQL, cloud platforms, and the modern data stack
-- Building a portfolio of real-world data engineering projects that demonstrate end-to-end pipeline development
-
----
-
-### 📚 Currently Learning
-
-- 🐍 Python for data engineering (Pandas, NumPy, scripting)
-- 🗄️ SQL & PostgreSQL (intermediate → advanced)
-- 🐧 Linux fundamentals & bash scripting
-- 🐳 Docker & containerization
-- ☁️ Cloud fundamentals (Azure/ AWS / GCP)
-- 🔄 Data pipeline concepts & workflow orchestration
 
 ---
 
@@ -56,31 +36,6 @@ I've decided to take some time and upskill myself in Data Engineering. With a ba
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
 </p>
-
-*Adding to my stack as I learn: Apache Airflow • dbt • Apache Spark • AWS • Snowflake*
-
----
-
-### 🏅 Certifications
-
-**Completed**
-- ✅ GitHub Foundations
-- ✅ GitHub Copilot
-- ✅ Google Data Analytics Certificate
-- ✅ AWS Cloud Practitioner
-
-**In Progress**
-- 🔜 DataCamp Data Engineer Associate
-
----
-
-### 💬 Ask Me About
-
-- Git workflows and version control best practices
-- Docker basics and containerization
-- Python scripting and automation
-- Working effectively in globally distributed, remote-first teams
-- Breaking into tech from a non-traditional background
 
 ---
 
@@ -108,5 +63,3 @@ I've decided to take some time and upskill myself in Data Engineering. With a ba
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
--->
